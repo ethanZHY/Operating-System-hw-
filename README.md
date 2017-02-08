@@ -1,5 +1,5 @@
 # Operating-System-hw
-Solution to my OS homework. Keep updating
+Solution to my OS homework. keep in updating
 
 See more in each folder.
 
