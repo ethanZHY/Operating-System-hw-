@@ -3,7 +3,7 @@ Solution to my OS homework. keep in updating
 
 # If you wanna complie:
 
-In OS X: 1.open your terminal;    2.gcc <.c> -o <out_name>;   3. ./<out_name>
+In OS X: 1.open your terminal;    2.gcc <.c> -o <'out_name'>;   3. ./<'out_name'>
 
 or
 
