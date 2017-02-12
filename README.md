@@ -1,5 +1,9 @@
 # Operating-System-hw
-Solution to my OS homework. keep in updating
+Solution to my OS homework. 
+
+and shell project (To be uploaded on Feb 28, 2017)
+
+keep in updating
 
 # If you wanna complie:
 
