@@ -26,7 +26,7 @@ Unit 2 – CPU Virtualization
 
 Unit 3 – Scheduling
 
-Unit 4 – Memory Virtualization
+Unit 4 – Memory Virtualization <- (now at)
 
 Unit 5 – Concurrency
 
