@@ -1,7 +1,15 @@
 # Operating-System-hw
 Solution to my OS homework. keep in updating
 
-See more in each folder.
+# If you wanna complie:
+
+In OS X: 1.open your terminal;    2.gcc <.c> -o <out_name>;   3. ./<out_name>
+
+or
+
+run the executable file, if you wish.
+
+# See more in each folder
 
 ie. homework1.pdf is about questions.
 q1.c is the solution to question 1
