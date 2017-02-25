@@ -1,7 +1,7 @@
 # Operating-System-hw
 Solution to my OS homework. 
 
-and shell project (To be uploaded on Feb 28, 2017)
+and shell project (see another repository named "compose a unix shell")
 
 keep in updating
 
