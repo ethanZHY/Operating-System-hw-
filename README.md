@@ -1,9 +1,16 @@
-# Operating-System-hw
-Solution to my OS homework. 
+# Operating-System
 
-and shell project (see another repository named "compose a unix shell")
+cpu virtualizaton and system
 
-keep in updating
+memory virtualization
+
+xv6
+
+multi-thread programming
+
+file system
+
+
 
 # If you wanna complie:
 
